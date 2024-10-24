@@ -15,18 +15,14 @@
 <br>
 <b>Can work using other tools too</b>
 <h3 class="center">Stats 📊</h3>
-<a href="https://github.com/MysteriousK69?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=mysteriousk69&show_icons=true&count_private=false&theme=radical" class="center"></a>
+<a href="https://github.com/MysteriousK69?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=kabir-sidhu&show_icons=true&count_private=false&theme=radical" class="center"></a>
 <br>
-<a href="https://github.com/mysteriousk69?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysteriousk69&show_icons=true&count_private=false&theme=radical" class="center"></a>
-<br>
-<br>
-<h3 class="center">Status 📄</h3>
-<a href="https://discord.com/users/840123998767022110"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-3/840123998767022110.png"></a>
+<a href="https://github.com/mysteriousk69?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir-sidhu&show_icons=true&count_private=false&theme=radical" class="center"></a>
 <br>
 <br>
 <table>
 <tr><th colspan="2"><b>Contact Me</b></th></tr>
-<tr><td><b>E-Mail</b></td><td><b><a href="mailto:mysteriousk69420@gmail.com">kabirsidhu74@gmail.com</a></b></td></tr>
-<tr><td><b>Discord</b></td><td><b><a href="https://discord.com/users/840123998767022110">@takatin.enjoyer</a></b></td></tr>
+<tr><td><b>E-Mail</b></td><td><b><a href="mailto:kabirsidhu74@gmail.com">kabirsidhu74@gmail.com</a></b></td></tr>
+<tr><td><b>Instagram</b></td><td><b><a href="https://instagram.com/kabirssidhu">@kabirssidhu</a></b></td></tr>
 </table>
 </div>
