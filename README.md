@@ -1,28 +1,27 @@
-<div class="center">
-<h3 class="center">Hello 👋</h3>
-<span class="center"><b>I am interested in coding, anime, games (VALORANT), mathematics, and physics. Making custom Discord bots, websites, etc. Contact me if you are interested.</b></span>
-<br>
-<h3 class="center">Experience and Tools 🛠️</h3>
-<a href="https://python.org"><img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" class="center"></a>
-<br>
-<a href="https://en.m.wikipedia.org/wiki/HTML"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>
-<br>
-<a href="https://en.m.wikipedia.org/wiki/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<br>
-<a href="https://sqlite.org"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-47a248?style=for-the-badge&logo=sqlite&logoColor=white" class="center"></a>
-<br>
-<a href="https://code.visualstudio.com"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" class="center"></a>
-<br>
-<b>Can work using other tools too</b>
-<h3 class="center">Stats 📊</h3>
-<a href="https://github.com/MysteriousK69?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=kabir-sidhu&show_icons=true&count_private=false&theme=radical" class="center"></a>
-<br>
-<a href="https://github.com/mysteriousk69?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir-sidhu&show_icons=true&count_private=false&theme=radical" class="center"></a>
-<br>
-<br>
-<table>
-<tr><th colspan="2"><b>Contact Me</b></th></tr>
-<tr><td><b>E-Mail</b></td><td><b><a href="mailto:kabirsidhu74@gmail.com">kabirsidhu74@gmail.com</a></b></td></tr>
-<tr><td><b>Instagram</b></td><td><b><a href="https://instagram.com/kabirssidhu">@kabirssidhu</a></b></td></tr>
-</table>
-</div>
+# 💫 About Me:
+🔭 I’m currently working on bringing some ambitious ideas to life through code — blending software, hardware, and real-world impact.<br>👯 I’m looking to collaborate on creative web or app-based projects, as well as anything involving AI, automation, or embedded systems.<br>🤝 I’m looking for help with scaling complex apps, debugging deep system-level issues, and optimizing performance across the stack.<br>🌱 I’m currently learning more about low-level systems, compiler theory, and pushing deeper into AI/ML.<br>💬 Ask me about weird hardware builds, AI projects, or how to make your app actually feel fast.<br>⚡ Fun fact: I once built a taser that shocks me if I slow down while typing — and yeah, it works a little too well.
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kabirssidhu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kabir-sidhu-78027a306) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCMVgfGaY3lH4zaI-mwMoxkw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kabir@kabirssidhu.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kabir-Sidhu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kabir-Sidhu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kabir-Sidhu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Kabir-Sidhu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Kabir-Sidhu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kabirssidhu) 
+
+  
